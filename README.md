@@ -18,7 +18,7 @@ Here’s a **concise and engaging GitHub project description** for Shopster:
 ## **🛠️ Tech Stack**
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Backend:** Java, Servlets, JSP, Hibernate  
-- **Database:** MySQL, JDBC  
+- **Database:** MySQL, JDBC, MySQL  
 - **Server:** Apache Tomcat  
 - **IDE:** NetBeans  
 
