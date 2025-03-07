@@ -1,0 +1,17 @@
+com\mycompany\shopster\dao\UserDao.class
+com\mycompany\shopster\entities\Product.class
+com\mycompany\shopster\entities\User.class
+com\mycompany\shopster\entities\Cart.class
+com\mycompany\shopster\helper\Helper.class
+com\mycompany\shopster\entities\Item.class
+com\mycompany\shopster\dao\ProductDao.class
+com\mycompany\shopster\helper\FactoryProvider.class
+com\mycompany\shopster\servlets\LoginServlet.class
+com\mycompany\shopster\servlets\LogoutServlet.class
+com\mycompany\shopster\servlets\RegisterServlet.class
+com\mycompany\shopster\servlets\EmailValidator.class
+com\mycompany\shopster\dao\CategoryDao.class
+com\mycompany\shopster\entities\Category.class
+com\mycompany\shopster\servlets\UpdateServlet.class
+com\mycompany\shopster\servlets\ProductOperationServlet.class
+com\mycompany\shopster\servlets\OrderConfirmationServlet.class
